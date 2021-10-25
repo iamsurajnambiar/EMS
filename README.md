@@ -22,4 +22,4 @@ Employee Management System
 
 ## Screenshots
 
-<img src="https://github.com/iamsurajnambiar/EMS/blob/main/Screenshots/1.png?raw=true" width="32%"> <img src="https://github.com/iamsurajnambiar/EMS/blob/main/Screenshots/1.png?raw=true" width="32%"> <img src="https://github.com/iamsurajnambiar/EMS/blob/main/Screenshots/1.png?raw=true" width="32%">
+<img src="https://github.com/iamsurajnambiar/EMS/blob/main/Screenshots/1.png?raw=true" width="32%"> <img src="https://github.com/iamsurajnambiar/EMS/blob/main/Screenshots/2.png?raw=true" width="32%"> <img src="https://github.com/iamsurajnambiar/EMS/blob/main/Screenshots/3.png?raw=true" width="32%">
