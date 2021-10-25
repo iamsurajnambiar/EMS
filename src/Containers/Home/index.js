@@ -61,9 +61,7 @@ const HomeScreen = ({navigation}) => {
   }, []);
 
   const invokeFetchEmployeeList = async () => {
-    console.warn('Employeee Api Calling');
     const response = await fetchEmployeeList();
-    console.log('response', response);
     if (response) {
       setState(prevState => ({
         ...prevState,
@@ -93,7 +91,6 @@ const HomeScreen = ({navigation}) => {
   };
 
   const handleRefresh = () => {
-    console.log('LIST REFRES');
     invokeFetchEmployeeList();
   };
 

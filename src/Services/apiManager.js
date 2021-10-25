@@ -6,6 +6,5 @@ export const fetchEmployeeList = async () => {
     const response = await api.get(apiEndpoints.getEmployeeList);
     return response?.data;
   } catch (error) {
-    console.warn('errorr ==>', error);
   }
 };

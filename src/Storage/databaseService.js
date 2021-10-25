@@ -42,7 +42,6 @@ export const searchEmployeeQuery = async (searchText: string) => {
     path: 'database',
     schema: [EmployeeScheme],
   });
-  console.log('searchText', searchText);
   return realm
     .objects(EMPLOYEE_SCHEMA)
     .filtered(`name CONTAINS[c] "${searchText}" OR email CONTAINS[c] "${searchText}"`);
